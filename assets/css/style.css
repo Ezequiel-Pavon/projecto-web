@@ -1,4 +1,16 @@
 .fs-1{
     text-align: center;
+    font-family: cursive;
+
 }
 
+
+.img-thumbnail{
+    /* border-radius: 20px blue;*/
+}
+
+
+.rounded float-start{
+    margin-right: 20px;
+    margin-left: 20px;
+}
