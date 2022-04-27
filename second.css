@@ -1,0 +1,56 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: black
+    }
+li{
+    color: aliceblue;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    padding-left:50px;
+    font-family: sans-serif;
+
+
+
+}
+html{
+
+
+    background-color: darkred
+}
+#asidetitle{
+
+
+    color: white;
+    font-family: sans-serif;
+    font-size:20px; 
+
+}
+aside{
+
+
+    float:right;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    margin-left: 70%;
+    padding: 1%;
+
+
+
+}
+article{
+    float: left;
+    color: white;
+    overflow: hidden;
+    margin-right: 30%
+
+
+
+
+
+}
